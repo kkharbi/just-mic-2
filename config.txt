@@ -1,0 +1,6 @@
+owner=298633171128418304
+prefix=j
+game=Break | jplay
+stayinchannel=true
+songinstatus=false
+token=NTQwOTAxODc5Mjk1NTA4NDgw.DzYv7Q.KOt1-E6y4pH7bvT-KWzurclzDx0
